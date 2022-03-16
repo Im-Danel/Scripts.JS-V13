@@ -1,6 +1,13 @@
-## Scripts.JS-V13:monocle_face:
+# Scripts.JS�
 
-Scripts/Comandos aleatórios para discord.js v13
-https://github.com/Im-Danel/Scripts.JS-V13/blob/Eventos/setActivity%20(Status%20do%20bot).js
+Scripts/Comandos aleatórios para discord.js.
 
-[![eventos](https://github-readme-stats.vercel.app/api/pin/?username=Im-Danel&repo=Scripts.JS-V13)](https://github.com/Im-Danel/Scripts.JS-V13/tree/Eventos)
+## 🤝 Contribuição
+
+Projeto aberto para ajuda, mais informações abra um ticket no discord!
+
+### Support Ou Contato
+
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-server)
+
+<p align="center">Copyright © 2022 Im-Danel</p>
